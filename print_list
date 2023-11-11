@@ -1,0 +1,4 @@
+list_one=["banana","Cherry","Apple"]
+
+for i in list_one:
+    print(i,end=" ")
